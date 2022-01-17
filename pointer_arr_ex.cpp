@@ -24,7 +24,7 @@ int main()
     }
 }
 
-
+//in C++ when we declare arrays in functions they are by default taken as pointer variables
 //the size of pointer is 8, while size of int is 4 hence the output is 
 //10 20 30 40
 //10 20
