@@ -9,7 +9,12 @@ void fun(int arr[])
         cout<<arr[i]<<" "<<endl; 
     }
 }
-                                            
+     
+//never use sizeof to get the size of an array 
+//declare size as another variable 
+
+
+
 int main()
 {
     int arr[]={10, 20, 30, 40}
