@@ -1,0 +1,23 @@
+-we'll see a lot of these two: 
+class 
+object
+
+-A class can be considered to be a data type 
+
+-inheritence is the way to avoid writing similar code again and again 
+
+-constructors: 
+functions who have the same name as the class name 
+
+-private members of a class are those which cant be accessed outside the class 
+the point of having private memebers is to not have others change your members
+
+-making memebers private and all is called 'abstraction'
+
+-'encapsulation' is simply bundling classes members and date together 
+idea of encapsulation is to get data functions and members together and make a class out of it 
+
+
+-POLYMORPHISM: 
+one name multiple personalities 
+
